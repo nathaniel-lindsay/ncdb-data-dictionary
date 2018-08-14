@@ -8,7 +8,7 @@ Unfortunately, when presented in `HTML` format, a data dictionary is essentially
 # Documentation:
 
 ### Installation
-I recommend using [pip](https://pip.pypa.io/en/stable/installing/) to install BeautifulSoup4
+I recommend using [pip](https://pip.pypa.io/en/stable/installing/) to install BeautifulSoup4 from the terminal
 
 `pip install --user Beautifulsoup4`
 
