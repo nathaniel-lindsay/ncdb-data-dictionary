@@ -3,22 +3,24 @@ A data dictionary is a compilation of information pertaining to and describing t
 
 Unfortunately, when presented in `HTML` format, a data dictionary is basically useless to researchers. On the other hand, when converted to a JSON object that is malleable and easily trasportable, the data dicitonary becomes a powerful tool for researchers 
 
-*In this project, I used the Python module BeautifulSoup4 to parse raw html from the NCDB's public use file into a Python dicitonary, which I then converted to a JSON object.* 
-
-
-
-
-
+*In this project, I used the Python module BeautifulSoup4 to parse raw html from the NCDB's public use file into a Python dictionary, which I then converted to a JSON object.* 
 
 # DOCUMENTATION 
 
-#### Installation:
-I recommend using pip to install BeautifulSoup
-pip install beautifulsoup4
+### Installation:
+I recommend using pip to install BeautifulSoup4
 
-Download ncdb.html and webscrape.py
+`pip install --user Beautifulsoup4`
 
-#### Instructions:
+or:
+
+`sudo pip install BeautifulSoup4`
+
+### Setup:
+
+
+
+### Instructions:
 
 In the appropriate terminal directory, run python webscrape.py
 
