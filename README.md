@@ -5,7 +5,7 @@ Unfortunately, when presented in `HTML` format, a data dictionary is essentially
 
 *In this project, the Python module BeautifulSoup4 is used to parse raw html from the [NCDB's public use file](http://ncdbpuf.facs.org/node/259?q=print-pdf-all) into a dictionary, which is then converted into a JSON object.* 
 
-# DOCUMENTATION 
+# Documentation
 
 ### Installation:
 I recommend using [pip](https://pip.pypa.io/en/stable/installing/) to install BeautifulSoup4
