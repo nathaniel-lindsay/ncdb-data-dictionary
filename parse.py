@@ -1,4 +1,4 @@
-# Get html from target                                                                 
+# Import JSON                                                                 
 import json
 
 # Import BeautifulSoup
