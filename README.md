@@ -20,7 +20,7 @@ or:
 
 **In order to effectively run `parse.py`, one must download the raw `HTML` from the [NCDB's public use file](http://ncdbpuf.facs.org/node/259?q=print-pdf-all)**
 
-*To do this:*
+*To do this,*
 * Navigate to `Veiw` :arrow_right: `Developer` :arrow_right: `View Source` on the webpage of the link above
 * Once viewing the source code, `File` :arrow_right: `Save Page As`
 * Name the file `ncdb.html` and under `'Format'`, select `'Webpage, HTML Only'`, save the file to the appropriate folder
