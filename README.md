@@ -18,11 +18,12 @@ or:
 
 ### Setup
 
-* From the terminal, `mkdir ncdb_data_dictionary`, this will be your directory for the cloned repository
+* From the terminal, `mkdir ncdb_data_dictionary` (this will be your directory for the cloned repository)
 * `cd` to `ncdb_data_dictionary`
-* run `git init` and `git clone https://github.com/nathaniel-lindsay/ncdb-data-dictionary.git`
+* run `git init`
+* run `git clone https://github.com/nathaniel-lindsay/ncdb-data-dictionary.git`
 
-A cloned repository will be added to `ncdb_data_dictionary` containing `parse.py`, and `ncdb_data_dictionary.json`
+A cloned repository will be added to `ncdb_data_dictionary` containing `parse.py`
 
 **In order to effectively run `parse.py`, one must download the raw `HTML` from the [NCDB's public use file](http://ncdbpuf.facs.org/node/259?q=print-pdf-all)...**
 
