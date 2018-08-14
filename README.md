@@ -29,5 +29,11 @@ or:
 
 ### Instructions
 
+* From the terminal, `cd` to `Documents`
+* `ls` and ensure both `parse.py` and `ncdb.html` are in `Documents`
+* Run `python parse.py` and wait for the process to return (*should take around 3 seconds*)
+* A new file, `ncdb_data_dictionary.json` has now been created, open this file in your favorite text editor 
+
+
 
 
