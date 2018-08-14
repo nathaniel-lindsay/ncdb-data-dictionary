@@ -3,12 +3,12 @@ In this project, I used the Python module BeautifulSoup to parse raw html from t
 
 # DOCUMENTATION 
 
-##### Installation:
+#### Installation:
 pip install beautifulsoup4
 
 Download ncdb.html and webscrape.py
 
-##### Instructions:
+#### Instructions:
 
 In the appropriate terminal directory, run python webscrape.py
 
