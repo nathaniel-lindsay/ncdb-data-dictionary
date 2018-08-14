@@ -232,13 +232,9 @@ for article in all_articles:
     data_dictionary.append(d)
 
 
-# for d in data_dictionary:
-#     print(d)
-
-
 # save file to disk
     with open('ncdb_data_dictionary.json', 'w') as f:
-        json.dump(data_dictionary,f)
+        json.dump(data_dictionary,f,sort_keys=True, indent=4)
 
 
 
