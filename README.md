@@ -1,4 +1,4 @@
-# ncdb-data-dictionary :book:
+# :book: ncdb-data-dictionary :book:
 A data dictionary is a compilation of information pertaining to and describing the contents, format, and structure of a database and the relationship between its elements. A data dictionary may be used to control access to and manipulation of the database.
 
 Unfortunately, when presented in `HTML` format, a data dictionary is essentially useless to researchers. On the other hand, when converted to a JSON object that is malleable and easily trasportable, the data dicitonary becomes a powerful tool for researchers 
