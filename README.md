@@ -18,7 +18,7 @@ or:
 
 ### Setup
 
-**In order to effectively run `parse.py`, one must download the raw `HTML` from the [NCDB's public use file](http://ncdbpuf.facs.org/node/259?q=print-pdf-all).**
+**In order to effectively run `parse.py`, one must download the raw `HTML` from the [NCDB's public use file](http://ncdbpuf.facs.org/node/259?q=print-pdf-all)...**
 
 **To do this,**
 * Navigate to `Veiw` :arrow_right: `Developer` :arrow_right: `View Source` on the webpage of the link above
